@@ -1,3 +1,31 @@
 .flashy {
   text-decoration: underline;
 }
+
+img {
+  width: 700px;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+}
+
+.index {
+  background-color: #efaad0;
+  color: #2a2142;
+}
+
+.chocolate {
+  background-color: #512f1b;
+  color: #e8f7b7;
+}
+
+.red {
+  background-color: #911717;
+  color: #a8a8a8;
+}
+
+.vanilla {
+  background-color: #fffac9;
+  color: ;
+}
