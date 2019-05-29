@@ -1,5 +1,7 @@
 .flashy {
   text-decoration: underline;
+  color: red;
+  font-style: italic;
 }
 
 img {
@@ -21,7 +23,7 @@ h1 {
   color: #e8f7b7;
 }
 
-.red {
+.best {
   background-color: #911717;
   color: #f7f5e3;
 }
