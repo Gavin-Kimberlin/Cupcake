@@ -3,11 +3,12 @@
 }
 
 img {
-  width: 700px;
+  height: 550px;
 }
 
 h1 {
   font-family: 'Pacifico', cursive;
+  font-size: 80px;
 }
 
 .index {
@@ -22,10 +23,17 @@ h1 {
 
 .red {
   background-color: #911717;
-  color: #a8a8a8;
+  color: #f7f5e3;
 }
 
 .vanilla {
   background-color: #fffac9;
-  color: ;
+}
+
+p, ul {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 35px;
 }
